@@ -14,9 +14,34 @@
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
 - 💎 If you are a Tech boy/girl let's get connected  
  
+ 
+ <br>
+ 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/wajeeh-haider3408/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:swajeeh03@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+ 
+  <br>
+
+ 
 <h1>Tech Stack  
 	  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 	  </h1>
+
+
+
+
 
 <table width="100">
 <tr>
@@ -75,12 +100,9 @@
     
 </table>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/wajeeh-haider3408/"><img src="https://img.shields.io/badge/-Wajeeh%20Haider-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:swajeeh03@gmail.com"><img src="https://img.shields.io/badge/-swajeeh03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/syedwajeehshahhaider/"><img src="https://img.shields.io/badge/-@syedwajeehshahhaider-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/wajeehhaider.shah"><img src="https://img.shields.io/badge/-Wajeeh Haider-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
-	</p>
+
+
+###
  
 <br>
 
@@ -106,19 +128,19 @@
 <img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
 </p>
 <br>
+
 <h2 >🏆 GitHub Profile Trophy</h2>
-<p>
+<p align="center">
 <a href="https://github.com/Wajeeh-Haider">
   <img src="https://github-profile-trophy.vercel.app/?username=Wajeeh-Haider&theme=matrix&column=8&margin-w=15&margin-h=15"/>
-
 </a>
 </p>
+
+
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
 </p>
-
-
 
 
 <br>
