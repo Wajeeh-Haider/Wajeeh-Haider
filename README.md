@@ -114,9 +114,8 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-<img href="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
