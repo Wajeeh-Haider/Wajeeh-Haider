@@ -114,13 +114,13 @@
 
 ## 🐛Github Magic Game
 <p align="center">
-  <img src="https://github.com/Wajeeh/Wajeeh/blob/output/snake.svg" alt="snake"></center>
-</p>
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/Wajeeh/Wajeeh/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+</p>
+
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
