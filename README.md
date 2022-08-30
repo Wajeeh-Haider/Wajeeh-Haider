@@ -144,6 +144,4 @@
 
 
 <br>
-<p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31ghfefrrpnbyr5kmfrce4g6jcli" />
-<p/>
+
