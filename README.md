@@ -107,7 +107,7 @@
 <br>
 
  
- <h2>GitHub Analytics
+ <h2>⚡️GitHub Analytics
  </h2>
 
 <p align="center">
