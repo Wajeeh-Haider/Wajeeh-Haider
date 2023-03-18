@@ -7,7 +7,7 @@
 	
 
 ### I'm a MERN Stack Developer and Teacher!
-- 🔭 I’m currently working as Backend Engineer @Alcematives.
+- 🔭 I’m currently working as a Skill Trainer in House of Professionals.
 - 🌱 I’m currently expanding my knowledge in WEB 3.0.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 100 students.
