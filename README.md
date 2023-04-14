@@ -6,13 +6,12 @@
 <a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
 	
 
-### I'm a MERN Stack Developer and Teacher!
-- 🔭 I’m currently working as a Skill Trainer in House of Professionals.
-- 🌱 I’m currently expanding my knowledge in WEB 3.0.
+### 👨‍💻 Skill Trainer at House of Professionals
+<!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 100 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
-- 💎 If you are a Tech boy/girl let's get connected  
+- 📢 Passionate about teaching and inspiring students; taught over 100.
+- 🥅 2023-24Goals: Contribute more to Open Source projects and execute innovative ideas.
+- 💎 Let's connect if you're a tech enthusiast!  
  
  
  <br>
