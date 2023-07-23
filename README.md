@@ -6,7 +6,7 @@
 <a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Skill+Trainer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p>
 
-### 👨‍💻 Skill Trainer at House of Professionals
+### 👨💻 MERN Stack Developer at Techfye
 <!-- - 🌱 Expanding knowledge in WEB 3.0. -->
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Passionate about teaching and inspiring students; taught over 100.
