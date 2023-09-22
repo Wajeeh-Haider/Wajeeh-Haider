@@ -1,5 +1,5 @@
 <body>
-  <div >
+  <div align="center">
     <h1> Hi there, I'm Wajeeh Haider </h1>
   </div>
 <p align="center">
