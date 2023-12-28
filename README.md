@@ -81,11 +81,6 @@
 </p>
 
 
-## 🐛Github Magic Game
-<p align="center">
-<img src="https://github.com/Wajeeh-Haider/Wajeeh-Haider/blob/output/github-contribution-grid-snake.svg" />
-</p>
-<br>
 
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p align="center">
@@ -94,12 +89,7 @@
 </a>
 </p>
 
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/Wajeeh-Haider/count.svg" />
-</p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajeeh-haider&label=Profile%20views&color=0e75b6&style=flat" alt="wajeeh-haider" /> </p>
 
 <br>
 
