@@ -1,10 +1,6 @@
 <body>
 
-<style>
-  .gap {
-    margin: 20px;
-  }
-</style>
+
  
   <div align="center">
     <h1> Hi there, I'm Wajeeh Haider </h1>
