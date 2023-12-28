@@ -2,7 +2,7 @@
 
 <style>
   .gap {
-    padding: 20px;
+    margin: 20px;
   }
 </style>
  
