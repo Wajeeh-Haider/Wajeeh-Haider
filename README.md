@@ -1,63 +1,132 @@
-<body>
+<div align="center">
 
+# 👋 Hi, I'm Wajeeh Haider
 
- 
-  <div align="center">
-    <h1> Hi there, I'm Wajeeh Haider </h1>
-  </div>
-<p align="center">
-<a href="https://github.com/Wajeeh-Haider"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Mobile+Application+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;MERN+Stack+Developer;React+Native+Mobile+Developer;AWS+Cloud+Enthusiast;Open+Source+Contributor" />
 
-### 👨💻 Freelancer
-- 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Passionate about teaching and inspiring students; taught over 100.
-- 🥅 2023-24 Goals: Contribute more to Open Source projects and execute innovative ideas.
-- 💎 Let's connect if you're a tech enthusiast!  
-- 📫 How to reach me **swajeeh03@gmail.com**
- 
- 
- <br>
- 
- <div align="center">
-  <a href="https://www.linkedin.com/in/wajeeh-haider3808/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="80" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:swajeeh03@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="80" alt="gmail logo"  />
-  </a>
- 
 </div>
- 
-  <br>
 
- 
-<h1>Tech Stack  
-<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-</h1>
+---
 
+## 🚀 About Me
 
+💻 Full Stack Software Engineer  
+📱 Mobile App Developer (React Native & Flutter)  
+☁️ Cloud & Backend Developer (AWS, Node.js)  
+🎓 Passionate about teaching — taught **100+ students**  
+🚀 Love building **scalable apps & APIs**
 
+- 👯 Looking to collaborate with developers & startups  
+- 🌱 Currently improving **Cloud Architecture & System Design**
+- 🧠 Focused on **high performance backend systems**
+- 📫 Reach me: **swajeeh03@gmail.com**
 
+---
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" class="gap"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" class="gap"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80" class="gap"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80" class="gap"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80" class="gap"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="80" height="80" class="gap"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" class="gap"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" class="gap"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80" class="gap"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80" class="gap"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80" class="gap"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80" class="gap"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80" class="gap"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80" class="gap"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="80" height="80" class="gap"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80" class="gap"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80" class="gap"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80"/> </a> 
-
-</p>
-
-
-###
- 
-<br>
-
- 
- <h2>⚡️GitHub Analytics
- </h2>
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Wajeeh-Haider">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wajeeh-haider&layout=compact&langs_count=8&theme=dark"/>
+
+<a href="https://www.linkedin.com/in/wajeeh-haider3808/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&show_icons=true&locale=en&layout=demo&theme=dark" />
-</p>
+
+<a href="mailto:swajeeh03@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
 </p>
 
+---
+
+# 🧠 Tech Stack
+
+### 👨‍💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,php,python" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+---
+
+# ⚡ GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wajeeh-Haider&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wajeeh-Haider&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wajeeh-Haider&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wajeeh-Haider&theme=tokyo-night" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Wajeeh-Haider/Wajeeh-Haider/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🚀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Wajeeh-Haider&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star!
+
+</div>
